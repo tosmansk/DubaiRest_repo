@@ -1,0 +1,12 @@
+                {
+                    'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) '
+                                   'Gecko/20100101 Firefox/61.0',
+                    'Host' : 'www.phptravels.net',
+                    'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                    'Accept-Language' : 'pl,en-US;q=0.7,en;q=0.3',
+                    'Accept-Encoding' : 'gzip, deflate',
+                    'Cookie' : '__unam=3f7f069-1643c8faf82-3b9e6f2d-2; '
+                               'ci_session=992a482taa2i3nmtqr0fm8dmte9pn2dd',
+                    'Connection' : 'close',
+                    'Upgrade-Insecure-Requests' : '1'
+                }

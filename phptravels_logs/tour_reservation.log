@@ -1,0 +1,688 @@
+DEBUG           2018-07-11 14:00:36,954 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:00:39,656 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:00:40,449 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:00:43,064 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:02:52,399 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:02:54,712 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:02:55,778 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:02:58,465 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:04:23,309 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:04:25,464 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:04:26,118 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:04:28,402 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:04:40,288 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:04:42,857 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:04:43,909 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:04:46,577 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:06:40,074 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:06:43,102 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:06:44,211 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:06:46,784 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:26:50,729 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:26:51,609 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:26:51,727 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:26:52,252 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:28:59,148 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:28:59,824 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:28:59,946 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:29:00,373 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 14:29:00,454 find_element Elememnt 0 with text Login found: 
+DEBUG           2018-07-11 14:29:21,987 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:29:22,526 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:29:22,638 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:29:23,093 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 14:29:23,187 find_element Elememnt 0 with text Login found: 
+DEBUG           2018-07-11 14:36:38,522 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:36:39,135 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:36:39,261 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:36:39,648 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 14:36:39,728 find_element Elememnt 0 with text: "Login" found.
+DEBUG           2018-07-11 14:43:42,607 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:43:43,514 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:43:43,632 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:43:44,018 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 14:43:44,100 find_element Elememnt 0 with text: "Login" found.
+DEBUG           2018-07-11 14:44:51,978 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 14:44:52,581 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 14:44:52,696 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 14:44:53,101 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 14:44:53,196 find_element Elememnt 0 with text: "Login" found.
+DEBUG           2018-07-11 15:00:39,061 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 15:00:39,630 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 15:00:39,752 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 15:00:40,913 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 15:00:41,007 find_element Elememnt 0 with text: "Login" found.
+DEBUG           2018-07-11 15:03:52,980 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 15:03:53,605 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 15:03:53,720 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 15:03:54,953 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 15:03:55,043 find_element Elememnt 0 with text: "Login" found.
+DEBUG           2018-07-11 15:04:16,880 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 15:04:17,471 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 15:04:17,589 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 15:04:19,419 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 15:04:19,523 find_element Elememnt 0 with text: "Login" found.
+DEBUG           2018-07-11 15:05:17,492 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 15:05:18,203 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 15:05:18,315 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 15:05:20,101 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 15:05:20,194 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 15:05:20,206 find_element Elememnt 0 with name: "username" found.
+DEBUG           2018-07-11 15:09:43,908 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 15:09:44,822 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 15:09:44,943 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 15:09:46,476 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 15:09:46,557 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 15:09:46,564 find_element Elememnt 0 with name: "username" found.
+DEBUG           2018-07-11 15:13:57,058 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 15:13:57,581 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 15:13:57,703 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 15:13:58,686 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 15:13:58,782 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 15:13:58,794 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 15:13:58,799 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:01:12,701 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:01:13,237 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:01:13,364 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:01:14,738 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 16:01:14,834 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:01:14,846 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:01:14,855 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:01:34,591 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:01:35,136 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:01:35,254 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:01:36,850 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 16:01:36,932 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:01:36,941 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:01:36,951 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:07:56,577 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:07:57,136 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:07:57,244 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:07:59,954 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 16:08:00,099 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:08:00,107 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:08:00,113 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:09:51,303 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:09:51,823 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:09:51,951 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:09:54,069 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 16:09:54,163 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:09:54,171 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:09:54,181 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:11:13,705 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:11:14,238 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:11:14,362 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:11:16,636 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 16:11:16,785 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:11:16,795 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:11:16,806 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:11:16,813 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:11:17,079 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:12:50,058 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:12:50,562 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:12:50,684 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:12:52,856 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+INFO            2018-07-11 16:12:52,985 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:12:52,989 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:12:52,994 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:12:53,000 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:12:53,256 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:12:53,374 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:12:54,573 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:15:59,166 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:15:59,719 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:15:59,843 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:16:01,378 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:16:01,460 get_login_page Get response code: 200
+INFO            2018-07-11 16:16:01,468 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:16:01,478 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:16:01,488 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:16:01,493 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:16:01,767 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:16:01,884 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:16:02,697 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:16:02,745 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:16:24,349 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:16:24,894 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:16:25,014 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:16:26,681 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:16:26,764 get_login_page Get response code: 200
+INFO            2018-07-11 16:16:26,779 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:16:26,785 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:16:26,792 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:16:26,798 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:16:27,065 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:16:27,183 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:16:28,274 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:16:28,359 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:18:32,230 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:18:32,743 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:18:32,867 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:18:34,724 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:18:34,808 get_login_page Get response code: 200
+INFO            2018-07-11 16:18:34,816 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:18:34,827 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:18:34,838 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:18:34,847 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:18:35,104 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:18:35,218 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:18:36,208 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:18:36,282 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:18:59,194 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:18:59,746 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:18:59,857 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:19:02,413 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:19:02,518 get_login_page Get response code: 200
+INFO            2018-07-11 16:19:02,531 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:19:02,542 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:19:02,548 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:19:02,553 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:19:02,814 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:19:02,923 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:19:04,150 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:19:04,246 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:20:25,798 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:20:26,385 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:20:26,502 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:20:29,216 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:20:29,344 get_login_page Get response code: 200
+INFO            2018-07-11 16:20:29,351 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:20:29,358 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:20:29,365 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:20:29,372 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:20:29,616 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:20:29,732 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:20:30,957 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:20:31,035 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:22:31,552 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:22:32,151 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:22:32,274 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:22:34,344 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:22:34,459 get_login_page Get response code: 200
+INFO            2018-07-11 16:22:34,464 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:22:34,470 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:22:34,476 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:22:34,481 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:22:34,738 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:22:34,860 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:22:36,005 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:22:36,097 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:42:17,784 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:42:18,523 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:42:18,639 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:42:20,696 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:42:20,802 get_login_page Get response code: 200
+INFO            2018-07-11 16:42:20,813 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:42:20,823 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:42:20,833 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:42:20,842 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:42:21,115 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:42:21,237 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:42:22,422 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:42:22,512 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:44:07,820 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:44:08,456 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:44:08,571 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:44:10,813 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:44:10,932 get_login_page Get response code: 200
+INFO            2018-07-11 16:44:10,937 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:44:10,942 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:44:10,948 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:44:10,954 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:44:11,219 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:44:11,326 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:44:12,660 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:44:12,763 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:50:28,383 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:50:29,469 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:50:29,584 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:50:39,103 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 302 None
+DEBUG           2018-07-11 16:50:39,317 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:50:40,562 _make_request https://www.phptravels.net:443 "GET /install/ HTTP/1.1" 302 None
+DEBUG           2018-07-11 16:50:40,615 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:50:41,083 _make_request https://www.phptravels.net:443 "GET /install/ HTTP/1.1" 302 None
+DEBUG           2018-07-11 16:50:41,113 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:50:41,393 _make_request https://www.phptravels.net:443 "GET /install/ HTTP/1.1" 302 None
+DEBUG           2018-07-11 16:50:41,417 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:50:42,144 _make_request https://www.phptravels.net:443 "GET /install/ HTTP/1.1" 404 None
+DEBUG           2018-07-11 16:50:42,222 get_login_page Get response code: 404
+DEBUG           2018-07-11 16:51:30,249 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:51:30,774 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:51:30,887 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:51:32,162 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:51:32,242 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:51:33,430 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:51:33,521 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:51:35,640 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:51:35,749 get_login_page Get response code: 200
+INFO            2018-07-11 16:51:35,757 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:51:35,765 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:51:35,773 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:51:35,780 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:51:36,042 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:51:36,163 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:51:37,391 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:51:37,479 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:52:27,325 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:52:27,952 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:28,080 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:52:29,577 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:52:29,678 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:52:31,100 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:52:31,214 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:52:33,689 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:33,808 get_login_page Get response code: 200
+INFO            2018-07-11 16:52:33,817 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:52:33,826 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:52:33,833 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:52:33,840 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:52:34,122 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:34,246 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:52:35,547 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:35,634 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:52:43,597 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:52:44,118 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:44,237 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:52:45,683 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:52:45,775 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:52:47,175 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:52:47,267 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:52:49,803 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:49,932 get_login_page Get response code: 200
+INFO            2018-07-11 16:52:49,942 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:52:49,950 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:52:49,959 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:52:49,966 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:52:50,232 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:50,352 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:52:51,700 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:52:51,806 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:53:00,268 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:53:00,896 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:01,014 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:53:02,283 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:53:02,363 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:53:03,527 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:53:03,604 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:53:05,666 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:05,772 get_login_page Get response code: 200
+INFO            2018-07-11 16:53:05,780 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:53:05,788 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:53:05,796 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:53:05,804 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:53:06,061 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:06,170 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:53:07,356 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:07,429 make_loggin Get response code: 200
+DEBUG           2018-07-11 16:53:39,715 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:53:40,321 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:40,440 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 16:53:41,521 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:53:41,585 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:53:42,612 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 16:53:42,694 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:53:44,461 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:44,546 get_login_page Get response code: 200
+INFO            2018-07-11 16:53:44,556 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 16:53:44,565 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 16:53:44,571 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 16:53:44,576 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 16:53:44,827 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:44,934 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 16:53:45,959 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 16:53:46,034 make_loggin Get response code: 200
+DEBUG           2018-07-11 17:25:25,136 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 17:25:25,749 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:25:25,864 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 17:25:28,271 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 17:25:28,406 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:25:30,646 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 17:25:30,801 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:25:34,678 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:25:34,883 get_login_page Get response code: 200
+INFO            2018-07-11 17:25:34,891 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 17:25:34,896 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 17:25:34,901 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 17:25:34,906 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 17:25:35,179 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:25:35,290 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:25:37,364 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:25:37,535 make_loggin Get response code: 200
+DEBUG           2018-07-11 17:27:13,636 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 17:27:14,191 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:27:14,316 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 17:27:16,620 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 17:27:16,780 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:27:20,203 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 17:27:20,387 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:27:26,428 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:27:26,631 get_login_page Get response code: 200
+INFO            2018-07-11 17:27:26,639 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 17:27:26,648 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 17:27:26,657 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 17:27:26,663 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 17:27:26,943 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:27:27,063 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:27:32,300 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:27:32,433 make_loggin Get response code: 200
+DEBUG           2018-07-11 17:27:55,441 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 17:27:55,974 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:27:56,093 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 17:27:57,705 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 17:27:57,791 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:27:59,352 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 17:27:59,461 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:28:02,592 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:28:02,803 get_login_page Get response code: 200
+INFO            2018-07-11 17:28:02,812 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 17:28:02,820 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 17:28:02,829 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 17:28:02,840 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 17:28:03,146 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:28:03,271 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 17:28:05,007 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 17:28:05,123 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:27:51,397 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:27:52,039 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:27:52,171 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:27:52,580 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:27:52,589 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:27:52,843 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:27:52,858 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:27:53,315 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:27:53,402 get_login_page Get response code: 200
+INFO            2018-07-11 23:27:53,412 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:27:53,419 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:27:53,426 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 23:29:42,874 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:29:43,353 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:29:43,465 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:29:43,744 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:29:43,753 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:29:44,030 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:29:44,043 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:29:44,426 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:29:44,510 get_login_page Get response code: 200
+INFO            2018-07-11 23:29:44,515 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:29:44,518 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:29:44,523 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 23:29:44,531 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:29:44,785 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:29:44,893 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:29:45,153 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:29:45,158 make_loggin Get response code: 200
+-----------------------------------
+DEBUG           2018-07-11 23:33:52,413 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:33:52,916 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:33:53,031 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:33:53,306 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:33:53,314 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:33:53,571 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:33:53,581 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:33:53,919 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:33:54,002 get_login_page Get response code: 200
+INFO            2018-07-11 23:33:54,010 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:33:54,019 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:33:54,027 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 23:33:54,035 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:33:54,300 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:33:54,415 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:33:54,679 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:33:54,685 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:40:20,320 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:40:20,846 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:40:20,961 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:40:21,237 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:40:21,247 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:40:21,530 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:40:21,545 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:40:21,920 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:40:22,002 get_login_page Get response code: 200
+INFO            2018-07-11 23:40:22,006 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:40:22,011 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:40:22,015 find_element Elememnt 0 with name: "password" found.
+DEBUG           2018-07-11 23:40:22,020 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:40:22,273 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:40:22,395 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:40:22,647 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:40:22,652 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:47:26,086 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:47:26,694 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-11 23:47:26,805 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:47:26,810 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:47:27,677 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:47:27,686 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:47:28,007 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:47:28,018 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:47:28,673 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:47:28,751 get_login_page Get response code: 200
+INFO            2018-07-11 23:47:28,759 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:47:28,768 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:47:28,776 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-11 23:47:28,779 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:47:28,785 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:47:29,057 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:47:29,173 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:47:29,457 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:47:29,463 make_loggin Get response code: 200
+---------------------------
+DEBUG           2018-07-11 23:52:09,036 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:52:09,664 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-11 23:52:09,774 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:52:09,779 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:52:10,075 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:52:10,084 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:52:10,337 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:52:10,352 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:52:10,694 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:52:10,775 get_login_page Get response code: 200
+INFO            2018-07-11 23:52:10,783 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:52:10,791 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:52:10,800 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-11 23:52:10,803 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:52:10,809 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:52:11,072 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:52:11,187 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:52:11,479 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:52:11,486 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:52:20,013 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:52:20,511 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-11 23:52:20,632 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:52:20,637 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:52:20,914 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:52:20,923 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:52:21,182 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:52:21,194 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:52:21,551 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:52:21,632 get_login_page Get response code: 200
+INFO            2018-07-11 23:52:21,640 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:52:21,651 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:52:21,658 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-11 23:52:21,661 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:52:21,666 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:52:21,924 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:52:22,045 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:52:22,283 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:52:22,289 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:53:21,393 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:53:22,128 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-11 23:53:22,243 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:53:22,247 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:53:22,523 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:53:22,532 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:53:22,922 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:53:22,946 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:53:23,462 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:53:23,546 get_login_page Get response code: 200
+INFO            2018-07-11 23:53:23,555 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:53:23,563 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:53:23,569 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-11 23:53:23,571 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:53:23,574 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:53:23,825 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:53:23,939 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:53:24,212 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:53:24,219 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:54:25,719 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:54:26,215 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-11 23:54:26,330 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:54:26,335 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:54:26,627 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:54:26,636 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:54:26,888 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:54:26,901 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:54:27,237 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:54:27,317 get_login_page Get response code: 200
+INFO            2018-07-11 23:54:27,327 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:54:27,335 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:54:27,345 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-11 23:54:27,347 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:54:27,351 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:54:27,694 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:54:27,800 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:54:28,061 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:54:28,067 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:55:44,959 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:55:45,500 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-11 23:55:45,608 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:55:45,611 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:55:45,880 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:55:45,891 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:55:46,157 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:55:46,174 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:55:46,566 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:55:46,650 get_login_page Get response code: 200
+DEBUG           2018-07-11 23:55:46,659 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-11 23:55:46,668 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-11 23:55:46,673 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-11 23:55:46,675 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:55:46,678 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:55:46,951 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:55:47,063 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:55:47,328 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:55:47,334 make_loggin Get response code: 200
+DEBUG           2018-07-11 23:56:16,564 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-11 23:56:17,121 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-11 23:56:17,226 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-11 23:56:17,235 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-11 23:56:17,516 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:56:17,534 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:56:17,793 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-11 23:56:17,816 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-11 23:56:18,202 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-11 23:56:18,283 get_login_page Get response code: 200
+DEBUG           2018-07-12 00:00:58,109 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:00:58,653 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-12 00:00:58,768 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:00:58,773 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-12 00:00:59,164 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:00:59,175 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:00:59,453 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:00:59,468 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:00:59,936 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:01:00,016 get_login_page Get response code: 200
+INFO            2018-07-12 00:01:00,023 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-12 00:01:00,027 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-12 00:01:00,031 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-12 00:01:00,033 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:01:00,036 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:01:00,299 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:01:00,417 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:01:00,793 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:01:00,807 make_loggin Get response code: 200
+-----------------------------------------
+DEBUG           2018-07-12 00:10:04,599 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:10:05,130 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-12 00:10:05,238 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:10:05,243 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-12 00:10:05,705 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:10:05,734 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:10:06,117 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:10:06,135 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:10:06,917 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:10:06,992 get_login_page Get response code: 200
+INFO            2018-07-12 00:10:07,001 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-12 00:10:07,009 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-12 00:10:07,017 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-12 00:10:07,020 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:10:07,026 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:10:07,292 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:10:07,414 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:10:07,980 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:10:08,012 make_loggin Get response code: 200
+DEBUG           2018-07-12 00:13:36,718 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:13:37,222 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-12 00:13:37,334 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:13:37,339 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-12 00:13:37,743 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:13:37,754 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:13:38,193 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:13:38,210 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:13:38,771 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:13:38,852 get_login_page Get response code: 200
+INFO            2018-07-12 00:13:38,856 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-12 00:13:38,861 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-12 00:13:38,866 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-12 00:13:38,868 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:13:38,871 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:13:39,126 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:13:39,243 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:13:39,577 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:13:39,589 make_loggin Get response code: 200
+DEBUG           2018-07-12 00:14:04,105 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:14:04,600 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-12 00:14:04,712 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:14:04,718 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-12 00:14:04,983 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:14:04,992 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:14:05,244 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:14:05,257 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:14:05,611 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:14:05,686 get_login_page Get response code: 200
+INFO            2018-07-12 00:14:05,692 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-12 00:14:05,697 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-12 00:14:05,701 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-12 00:14:05,703 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:14:05,707 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:14:05,960 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:14:06,072 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:14:06,346 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:14:06,356 make_loggin Get response code: 200
+DEBUG           2018-07-12 00:15:27,079 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:15:28,171 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-12 00:15:28,281 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:15:28,285 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-12 00:15:28,624 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:15:28,633 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:15:28,900 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:15:28,913 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:15:29,267 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:15:29,349 get_login_page Get response code: 200
+DEBUG           2018-07-12 00:15:29,358 find_element Elememnt 0 with text: "Login" found.
+DEBUG           2018-07-12 00:15:29,367 find_element Elememnt 0 with name: "username" found.
+DEBUG           2018-07-12 00:15:29,375 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-12 00:15:29,378 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:15:29,386 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:15:29,645 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:15:29,753 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:15:30,017 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:15:30,023 make_loggin Get response code: 200
+DEBUG           2018-07-12 00:16:39,079 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:16:39,761 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+INFO            2018-07-12 00:16:39,877 read_header_file GET HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:16:39,884 _new_conn Starting new HTTPS connection (1): www.phptravels.net:443
+DEBUG           2018-07-12 00:16:40,181 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:16:40,190 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:16:40,450 _make_request https://www.phptravels.net:443 "GET /account HTTP/1.1" 307 None
+DEBUG           2018-07-12 00:16:40,469 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:16:40,820 _make_request https://www.phptravels.net:443 "GET /login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:16:40,906 get_login_page Get response code: 200
+INFO            2018-07-12 00:16:40,914 find_element Elememnt 0 with text: "Login" found.
+INFO            2018-07-12 00:16:40,922 find_element Elememnt 0 with name: "username" found.
+INFO            2018-07-12 00:16:40,931 find_element Elememnt 0 with name: "password" found.
+INFO            2018-07-12 00:16:40,934 read_header_file POST HEADERS CORRECTLY OBTAINED
+DEBUG           2018-07-12 00:16:40,938 _new_conn Starting new HTTPS connection (1): phptravels.com:443
+DEBUG           2018-07-12 00:16:41,188 _make_request https://phptravels.com:443 "GET /demo.php HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:16:41,312 _get_conn Resetting dropped connection: www.phptravels.net
+DEBUG           2018-07-12 00:16:41,564 _make_request https://www.phptravels.net:443 "POST /account/login HTTP/1.1" 200 None
+DEBUG           2018-07-12 00:16:41,569 make_loggin Get response code: 200
